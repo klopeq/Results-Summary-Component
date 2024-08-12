@@ -146,6 +146,10 @@ body {
         flex-direction: column;
         overflow-y: auto;
     }
+
+    .container .box-1 {
+        margin-top: 200px;
+    }
 }
 
 

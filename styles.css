@@ -65,8 +65,7 @@ body {
 .container .box-2 {
     padding: 25px;
     width: 300px;
-    border-top-right-radius: 18px;
-    border-bottom-right-radius: 18px;
+    border-radius: 18px;
     background-color: #eeeeee;
     height: 400px;
 }
